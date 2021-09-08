@@ -1,0 +1,38 @@
+.result-container{
+	width: 100%;
+}
+.big-slider{
+	margin-top: -4px !important;
+}
+.slider-item a{
+	text-decoration: none;
+	cursor: pointer;
+}
+.slider-item{
+	width: 100%;
+	overflow: hidden;
+}
+.slider-item img{
+	width: 100%;
+}
+.result-container .gbtn-container{
+	width: 100%;
+	display: inline-flex;
+	justify-content: center;
+	padding: 2rem;
+}
+.result-container .gbtn-container a{
+	text-decoration: none;
+}
+
+.para-container h2{
+	color: #fff;
+	font-size: 1.2rem;
+	padding: 0 1rem;
+}
+.para-container p{
+	color: #b5b5b5;
+	font-size: 0.99rem;
+	line-height: 1.7rem;
+	padding: 0 1rem;
+}
